@@ -11,3 +11,9 @@
 ===============
 
 * I took a break from working for almost fortnight.
+
+
+11 April 2021 :
+===============
+
+* Learnt some fundamental concepts of Javascript
