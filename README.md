@@ -17,3 +17,8 @@
 ===============
 
 * Learnt some fundamental concepts of Javascript
+
+12 April 2021 :
+===============
+
+* Learnt some concepts of REST API best practices
