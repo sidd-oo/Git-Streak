@@ -22,3 +22,8 @@
 ===============
 
 * Learnt some concepts of REST API best practices
+
+8 March 2022 :
+==============
+
+* GraphQl netninjas reading list
