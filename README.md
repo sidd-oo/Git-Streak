@@ -27,3 +27,8 @@
 ==============
 
 * GraphQl netninjas reading list
+
+10 March 2022 :
+===============
+
+* Namaste javascript 
