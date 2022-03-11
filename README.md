@@ -31,4 +31,9 @@
 10 March 2022 :
 ===============
 
-* Namaste javascript 
+* Namaste javascript 1 - 8
+
+11 March 2022 :
+===============
+
+* Namaste javascript 9 - 15
