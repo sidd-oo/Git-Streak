@@ -47,3 +47,8 @@
 ===============
 
 * Started weShare - file sharing app
+
+16th March 2022:
+================
+
+* Started weShare backend and done with the setup of project
