@@ -52,3 +52,9 @@
 ================
 
 * Started weShare backend and done with the setup of project
+
+
+3rd April 2022:
+================
+
+* Started planning for interviews
