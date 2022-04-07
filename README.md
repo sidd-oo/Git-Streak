@@ -58,3 +58,8 @@
 ================
 
 * Started planning for interviews
+
+7th April 2022: 
+===============
+
+* JS Fundamentals Revision
